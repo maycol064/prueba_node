@@ -1,0 +1,16 @@
+{
+  "type": "module",
+  "name": "logica",
+  "version": "1.0.0",
+  "description": "",
+  "main": "primeFactors.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
